@@ -3,5 +3,5 @@ export interface InfoEquipo {
   nombre?: string;
   subtitulo?: string;
   twitter?: string;
-  url?: string;
-}
+  url?: string ;
+ }
