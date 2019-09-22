@@ -12,7 +12,7 @@ import { PortafolioComponent } from './pages/portafolio/portafolio.component';
 import { AboutComponent } from './pages/about/about.component';
 import { ItemComponent } from './pages/item/item.component';
 import { SearchComponent } from './pages/search/search.component';
-import { TableComponent } from './table/table.component';
+
 
 @NgModule({
   declarations: [
@@ -22,8 +22,7 @@ import { TableComponent } from './table/table.component';
     PortafolioComponent,
     AboutComponent,
     ItemComponent,
-    SearchComponent,
-    TableComponent
+    SearchComponent
   ],
   imports: [
     BrowserModule,
